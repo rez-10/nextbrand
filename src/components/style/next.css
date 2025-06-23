@@ -1,0 +1,27 @@
+/* .card{
+    border:1px solid red;
+    background-size: cover;
+}
+.card:hover{
+    background-size: 100rem;
+    
+}
+.card1:hover{
+    filter: blur(10px);
+} */
+.ss{
+    color:lightsalmon;
+}
+.card:hover{
+    box-shadow: -3px 7px 72px -16px rgba(37,132,211,0.73);
+-webkit-box-shadow: -3px 7px 72px -16px rgba(37,132,211,0.73);
+-moz-box-shadow: -3px 7px 72px -16px rgba(37,132,211,0.73);
+}
+
+a{
+    transition: .5s;
+}
+a:hover{
+    color: orange;
+    transition: .3s;
+}
